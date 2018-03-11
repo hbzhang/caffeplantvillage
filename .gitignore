@@ -1,0 +1,11 @@
+**/logs
+**/snapshots
+**/test
+**/test_backup
+**/lmdb
+**/crowdai
+*.zip
+bvlc_alexnet.caffemodel
+
+
+
